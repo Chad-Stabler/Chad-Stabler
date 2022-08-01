@@ -25,10 +25,11 @@ Languages:
 -HTML/CSS
 -React
 -Node
--PostgreSQL
+-SQL
 -Java
 -C++
 Databases:
+-Postgres
 -Supabase
 -Postman
 -Beehive
