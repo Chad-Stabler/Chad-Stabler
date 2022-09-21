@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 --WORK IN PROGRESS
 
-I'm a fast paced semi-perfectionist with close attention to detail and a knack for finding creative solutions. With my experience in the service industry I learned to excel in fast paced high output work while also making sure the most minute things are perfect. 
+I'm a quick paced semi-perfectionist with close attention to detail and a knack for finding creative solutions. With my experience in the service industry I learned to excel in fast paced high output work while also making sure the most minute things are perfect. 
   Always having a gaming system from a young age, I learned to think quick on my feet and developed creative problem solving skills. I pick up on new concepts fast and work well with others, and work well in either static or dynamic work environments.
 
 Languages:
